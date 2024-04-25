@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Una/f7ceSmPCHl7IVnJsThZcSYPJGx4pplXuxB5ngkw=",
+  "Source": "OcelotAPiGateway",
+  "BasePath": "_content/OcelotAPiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
